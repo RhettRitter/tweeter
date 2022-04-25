@@ -23,3 +23,13 @@ body {
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
+ * {
+  font-family: 'Source Sans Pro', sans-serif; 
+ }
+ .container {
+  align-self: center;
+  background-color: #f4f1ec;
+  padding-left: 5%;
+  padding-right: 5%;
+  
+}
